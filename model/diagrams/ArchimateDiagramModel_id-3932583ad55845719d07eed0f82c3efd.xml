@@ -15,4 +15,28 @@
         xsi:type="archimate:BusinessEvent"
         href="BusinessEvent_id-1ccd69e6a36a46fd95bcf5df447a30ff.xml#id-1ccd69e6a36a46fd95bcf5df447a30ff"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-b33d9dd937934d4c847c7243855fc61d">
+    <bounds
+        x="516"
+        y="141"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessEvent"
+        href="BusinessEvent_id-76a6cc39409345a2a9611facf07b4053.xml#id-76a6cc39409345a2a9611facf07b4053"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-6f1e82c70fdf454a88921ebba79578c7">
+    <bounds
+        x="604"
+        y="319"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-608e599c3296444380e0a5074840e555.xml#id-608e599c3296444380e0a5074840e555"/>
+  </children>
 </archimate:ArchimateDiagramModel>
